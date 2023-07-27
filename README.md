@@ -2,6 +2,9 @@
 
 本Project是针对 视频生成 任务，区别于类似TuneAVideo、FollowYourPose等论文需要依靠2D数据进行finetune的手段，在这里是无需训练过程完全依靠注意力机制+Stable Diffusion实现zero-shot的depth2video视频生成推理过程。**注意**，这里注意力机制主要是作用在输入的深度图与生成的rgb图像之间来指导下一帧的生成。
 
+<p align="center">
+<img alt="threestudio" src="https://user-images.githubusercontent.com/57764255/256574044-038ed866-42ac-46fc-8cb6-6a2bec7fb79f.jpg" width="100%">
+</p>
 https://user-images.githubusercontent.com/57764255/256574044-038ed866-42ac-46fc-8cb6-6a2bec7fb79f.jpg
 
 https://user-images.githubusercontent.com/57764255/256574105-76cfb204-de62-40ca-afa3-232c2c4483a2.jpg
