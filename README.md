@@ -4,6 +4,7 @@
 
 ## 输入视频
 https://user-images.githubusercontent.com/57764255/256568545-6c8e127f-529b-43bc-96fd-9a5f4c3802b0.mp4
+https://cloud.tsinghua.edu.cn/lib/3eabbd41-5269-4056-98f2-d27b68a0a6f7/file/SD-depth2video/input/hamburger_depth.mp4
 
 ## 文件目录结构
 
