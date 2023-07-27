@@ -5,9 +5,10 @@
 <p align="center">
 <img alt="threestudio" src="https://user-images.githubusercontent.com/57764255/256574044-038ed866-42ac-46fc-8cb6-6a2bec7fb79f.jpg" width="100%">
 </p>
-https://user-images.githubusercontent.com/57764255/256574044-038ed866-42ac-46fc-8cb6-6a2bec7fb79f.jpg
 
-https://user-images.githubusercontent.com/57764255/256574105-76cfb204-de62-40ca-afa3-232c2c4483a2.jpg
+<p align="center">
+<img alt="threestudio" src="https://user-images.githubusercontent.com/57764255/256574105-76cfb204-de62-40ca-afa3-232c2c4483a2.jpg" width="100%">
+</p>
 ## 输入视频
 https://user-images.githubusercontent.com/57764255/256568545-6c8e127f-529b-43bc-96fd-9a5f4c3802b0.mp4
 
